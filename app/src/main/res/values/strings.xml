@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_type_none">None</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_terrian">Terrian</string>
+    <string name="map_type_hybrid">Hybrid</string>
+    <string name="map_type_satelliet">Satellite</string>
+    <string name="title_activity_search_place">Map</string>
+    <string name="title_activity_add_geo_alarm">AddGeoAlarm</string>
+</resources>

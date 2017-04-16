@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/MapTypeNone"
+        android:showAsAction="ifRoom"
+        android:title="@string/map_type_none">
+    </item>
+    <item
+        android:id="@+id/MapTypeNormal"
+        android:showAsAction="always"
+        android:title="@string/map_type_normal">
+    </item>
+    <item
+        android:id="@+id/MapTypeTerrian"
+        android:showAsAction="ifRoom"
+        android:title="@string/map_type_terrian">
+    </item>
+    <item
+        android:id="@+id/MapTypeHybrid"
+        android:showAsAction="ifRoom"
+        android:title="@string/map_type_hybrid">
+    </item>
+    <item
+        android:id="@+id/MapTypeSatelliet"
+        android:showAsAction="ifRoom"
+        android:title="@string/map_type_satelliet">
+    </item>
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mapTypeNone" type="id">MAP_TYPE_NONE</item>
+    <item name="mapTypeNormal" type="id">MAP_TYPE_NORMAL</item>
+    <item name="mapTypeSatellite" type="id">MAP_TYPE_SATELLIET</item>
+    <item name="mapTypeTerrain" type="id">MAP_TYPE_TERRAIN</item>
+    <item name="mapTypeHybriD" type="id">MAP_TYPE_HYBRID</item>
+</resources>
